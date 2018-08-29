@@ -1,4 +1,4 @@
-# I-Am-Poor
+# I Am Poor
 My version of the "I Am Poor" spinoff app of the "I Am Rich" app. Again, this is to familiarize myself with Xcode's interface and the basics of iOS development.
 
 ## Finished App
